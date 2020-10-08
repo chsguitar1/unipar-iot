@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "159203464048",
+    "firebase_url": "https://unipar-iot.firebaseio.com",
+    "project_id": "unipar-iot",
+    "storage_bucket": "unipar-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159203464048:android:bb7ca6bfa5b8d383bf75b5",
+        "android_client_info": {
+          "package_name": "com.topicos.unipariot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159203464048-c7e2vcu0k31kr790ni4o0cf17jah1b8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAEjSAaxSfM1DYVKP36ydkCiYQVZYJ0Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159203464048-c7e2vcu0k31kr790ni4o0cf17jah1b8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
