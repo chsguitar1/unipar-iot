@@ -40,6 +40,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     void login(String email, String password) {
+        email = "email@email.com";
+        password = "123456";
 
         mAuth.signInWithEmailAndPassword(email, password)
                 .addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
